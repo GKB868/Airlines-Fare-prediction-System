@@ -42,7 +42,7 @@ The dataset used for this project includes information on:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/airline-fare-prediction.git
+   git clone https://github.com/GKB868/Airlines-Fare-prediction-System.git
    ```
 2. Navigate to the project directory:
    ```bash
